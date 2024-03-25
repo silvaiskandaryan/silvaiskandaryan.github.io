@@ -1,0 +1,31 @@
+body {
+font-family: Arial, sans-serif;
+margin: 20px;
+}
+
+section{
+background-color: blue;
+color: aqua;
+text-align: center;
+}
+
+section article p {
+  background-color: rgb(13, 148, 81);
+}
+
+article {
+    background-color: rgb(114, 149, 180);
+    color: rgb(38, 31, 134);
+}
+
+shoort-text {
+display: inline;
+}
+
+lorem-ipsum {
+    text-align: justify;
+}
+
+paragraph {
+    background-color: rgb(97, 133, 12);
+}
